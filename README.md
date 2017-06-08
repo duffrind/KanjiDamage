@@ -4,10 +4,12 @@ These are the scripts and produced html files from downloading KanjiDamage and t
 I used SiteSucker to download the website and then made my own Python scripts to convert it into PhoneGap friendly files.
 
 Features:
-Bookmarking: Pressing on the KANJIDAMAGE header will bookmark your current Kanji or Radical. Clicking on this header while not on a Kanji or Radical page will load your latest bookmark.
-No Ads: I mostly removed the ads and tracking. I will remove more when I have time.
-Offline: The app does not need internet access.
+
+* Bookmarking: Pressing on the KANJIDAMAGE header will bookmark your current Kanji or Radical. Clicking on this header while not on a Kanji or Radical page will load your latest bookmark.
+* No Ads: I mostly removed the ads and tracking. I will remove more when I have time.
+* Offline: The app does not need internet access.
 
 Current Issues:
-No Icons
-Unsigned Code
+
+* No Icons
+* Unsigned Code
