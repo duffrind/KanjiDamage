@@ -6,7 +6,7 @@ I used SiteSucker to download the website and then made my own Python scripts to
 Features:
 
 * Bookmarking: Pressing on the KANJIDAMAGE header will bookmark your current Kanji or Radical. Clicking on this header while not on a Kanji or Radical page will load your latest bookmark.
-* No Ads: I mostly removed the ads and tracking. I will remove more when I have time.
+* No Ads: I removed most of the ads and tracking. I will remove more when I have time.
 * Offline: The app does not need internet access.
 
 Current Issues:
