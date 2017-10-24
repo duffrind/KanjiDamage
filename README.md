@@ -13,3 +13,6 @@ Current Issues:
 
 * No Icons
 * Unsigned Code
+
+Android Version: /apps/init-debug.apk
+iOS Version: /apps/KanjiDamage.app
